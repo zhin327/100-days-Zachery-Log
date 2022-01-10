@@ -6,3 +6,10 @@ Day 1 - I have been using scrimba for about 2 months. I am current trying to fin
 
 
 Day 2 - Built website from ground up, Focued on CSS and getting the website to look the correct way. Working toward putting the final touches on the website to have a completed website from scratch built.
+
+<<<EDIT - Started adding dates to hold accountable days I have missed, or been busy.>>>
+  
+1/9/2022 Day 3 - Forgot to update. I completed some challenges for CSS to build understanding of Flexbox and how it works. 
+
+1/10/2022 Day 4 - Challenges completed for Flexbox. Continued on to challenges from Scrimba to learning more about styling. 
+
