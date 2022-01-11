@@ -13,3 +13,4 @@ Day 2 - Built website from ground up, Focued on CSS and getting the website to l
 
 1/10/2022 Day 4 - Challenges completed for Flexbox. Continued on to challenges from Scrimba to learning more about styling. 
 
+1/11/2022 Day 5 - Dove deeper into CSS regarding cleaning up text, and text spacing to enhance website readability and presence. Moving on to background images and other styling improvements.
