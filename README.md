@@ -15,4 +15,4 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 
 1/11/2022 Day 5 - Dove deeper into CSS regarding cleaning up text, and text spacing to enhance website readability and presence. Moving on to background images and other styling improvements.
 
-1/12/2022 Day 6 - Learning responsive design, designing websites from phone based sizes, then implementing full size website design. Currently designing a single webpage with form's inclusive, to submit user information to website owners.
+1/12/2022 Day 6 - Learning responsive design, designing websites from phone based sizes, then implementing full size website design. Currently designing a single webpage with form's inclusive, to submit user information to website owners. ---> Ended up setting up forms and working toward finishing the website design. 
