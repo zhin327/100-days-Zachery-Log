@@ -20,3 +20,5 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/14/2022 Day 7 - Working toward understanding more indepth javascript methods. Inlcuding for of loops, and how to implement them. Starting on a "Pac-Man" type game today. Which should be finished by Sunday.
 
 1/16/2022 Day 8 - Today we started on very basic Javascript challenges to understand what interview processes might be like in the future. I beleive they are just introducing us to a certain way of thinking when it comes to coding and problem solving.
+
+1/18/2022 Day 9 - Forgot to update yesterdays Github repository. Finished up some of the bootcamp and reviewing javascript material under I felt comfortable moving into the Pacman game. Currently halfway through the project, will be finishing and uploading it tomorrow.
