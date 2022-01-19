@@ -23,4 +23,4 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 
 1/18/2022 Day 9 - Forgot to update yesterdays Github repository. Finished up some of the bootcamp and reviewing javascript material under I felt comfortable moving into the Pacman game. Currently halfway through the project, will be finishing and uploading it tomorrow.
 
-1/19/2022 Day 10 - Finished Coding the PacMan Project, Focused on learning, .contains, and moving through .CurrentIndex, to ensure the project would run correctly, A start game and an End Game function were added to, ofcourse, Start and end the game. I will be Updating Pac-Man more as I learn new skills through javaScript.
+1/19/2022 Day 10 - Finished Coding the PacMan Project, Focused on learning, .contains, and moving through .CurrentIndex, to ensure the project would run correctly, A start game and an End Game function were added to, ofcourse, Start and end the game. I will be Updating Pac-Man more as I learn new skills through javaScript. Project Name "PacMan"
