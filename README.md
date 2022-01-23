@@ -26,3 +26,7 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/19/2022 Day 10 - Finished Coding the PacMan Project, Focused on learning, .contains, and moving through .CurrentIndex, to ensure the project would run correctly, A start game and an End Game function were added to, ofcourse, Start and end the game. I will be Updating Pac-Man more as I learn new skills through javaScript. Project Name "PacMan"
 
 1/20/2022 Day 11 - Started learning about API's and how to integrate them into Javascript.
+
+1/21/2022 Day 12 - Forgot to update this, So today is actually day 13, updating day 12. Worked more on API's and how the "fetch" command works to bring API's onboard our Javascript.
+
+1/23/2022 Day 13 - Working toward building 3 API type projects, Gives great experience and helps later when we need to use API's within our programs.
