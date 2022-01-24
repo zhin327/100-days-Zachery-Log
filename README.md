@@ -30,3 +30,5 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/21/2022 Day 12 - Forgot to update this, So today is actually day 13, updating day 12. Worked more on API's and how the "fetch" command works to bring API's onboard our Javascript.
 
 1/23/2022 Day 13 - Working toward building 3 API type projects, Gives great experience and helps later when we need to use API's within our programs.
+
+1/24/2022 Day 14 - Built an app/website using an API, used the boredbot API to learn the basics on how to access and implement API's
