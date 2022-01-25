@@ -32,3 +32,5 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/23/2022 Day 13 - Working toward building 3 API type projects, Gives great experience and helps later when we need to use API's within our programs.
 
 1/24/2022 Day 14 - Built an app/website using an API, used the boredbot API to learn the basics on how to access and implement API's
+
+1/25/2022 Day 15 - Working on a new application that includes (fetch) getting information and posting information to a JSON. This application is a basic version of facebook/twitter/a blog with posting options. Tomorrow should include finishing up all API learning courses and moving on toward the next lessons. 
