@@ -34,3 +34,9 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/24/2022 Day 14 - Built an app/website using an API, used the boredbot API to learn the basics on how to access and implement API's
 
 1/25/2022 Day 15 - Working on a new application that includes (fetch) getting information and posting information to a JSON. This application is a basic version of facebook/twitter/a blog with posting options. Tomorrow should include finishing up all API learning courses and moving on toward the next lessons. 
+
+1/26 Day 16 - Still working through API's and trying to soak in as much as I can.
+
+1/27 Day 17 - Still working through API's and trying to soak in as much as I can.
+
+1/28 Day 18 - Still working on the last API project, the courses I am going through had a sidebar that was teaching a deeper understanding of "promises" we created a filter instead of using the .filter() function. Spending extra time going through this has given me a better understanding of callback functions and how they operate. 
