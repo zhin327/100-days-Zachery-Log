@@ -42,3 +42,5 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/28 Day 18 - Still working on the last API project, the courses I am going through had a sidebar that was teaching a deeper understanding of "promises" we created a filter instead of using the .filter() function. Spending extra time going through this has given me a better understanding of callback functions and how they operate. 
 
 1/31 Day 19 - Took a break due to family getting COVID for a few days. Recovered,  being back I am still working on the WAR(card game) API project. Today we learned how to pull images from the data given via the API, adding pre-loaded images to our game. We had some class portions talking about various workings of API's.
+
+2/1 Day 20 - Finished the game of war project. Topics reviewed and covered, callbacks, promises. Use of API's (deck of cards API), styling and layout, algorithm practice, UX Improvments. Touched on Async/Await.
