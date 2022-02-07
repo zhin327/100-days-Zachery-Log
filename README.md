@@ -44,3 +44,5 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 1/31 Day 19 - Took a break due to family getting COVID for a few days. Recovered,  being back I am still working on the WAR(card game) API project. Today we learned how to pull images from the data given via the API, adding pre-loaded images to our game. We had some class portions talking about various workings of API's.
 
 2/1 Day 20 - Finished the game of war project. Topics reviewed and covered, callbacks, promises. Use of API's (deck of cards API), styling and layout, algorithm practice, UX Improvments. Touched on Async/Await.
+
+2/7 Day 21 - Did not update Github as I was focused on mastering CSS Grid + Flexbox, I have worked to understand the concepts and build upon both of those skills. I spent today focusing on cleaning up my Github and updating LinkedIn with a more professional look and feel. 
