@@ -45,4 +45,4 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 
 2/1 Day 20 - Finished the game of war project. Topics reviewed and covered, callbacks, promises. Use of API's (deck of cards API), styling and layout, algorithm practice, UX Improvments. Touched on Async/Await.
 
-2/7 Day 21 - Did not update Github as I was focused on mastering CSS Grid + Flexbox, I have worked to understand the concepts and build upon both of those skills. I spent today focusing on cleaning up my Github and updating LinkedIn with a more professional look and feel. 
+2/7 Day 21 - Did not update Github as I was focused on mastering CSS Grid + Flexbox, I have worked to understand the concepts and build upon both of those skills. I spent today focusing on cleaning up my Github and updating LinkedIn with a more professional look and feel. Rebuilt a Bored Bot API from scratch to ensure I know the content and how to reuse it. Project Name --> Bored Bot
