@@ -49,3 +49,4 @@ Day 2 - Built website from ground up, Focused on CSS and getting the website to 
 
 2/8 Day 22 - Finished a complete chrome dashboard, it is considered a "Momentum" clone, When opening a new chrome tab it gives you updated Dogecoin prices using the CoinGecko API, weather in your current area using a location API + Weather API. Background images are randomzied to show new professional images everytime you open a new tab. Project Name ---> Dashboard- Chrome
 
+Took a break to shoot out applications to Web3/ NFT companies for a position. Secured my first position, not doing software engineering, but other tasks, I have come back to the Bootcamp and currently learning Flexbox mastery. After that I will be completeing more javascript tutorials. 
